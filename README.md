@@ -21,6 +21,11 @@ It can do the following :
 -  ( OnlineFix ) It will edit your host file and add google's IP to the **'kill-switch'** ( which means even if the site goes down you wont be affected )
 -  ( OfflineFix ) It will create a lightweight local web server and add localhost to **'Kill-switch'**
 
+## Tip
+
+-  Use the OnlineFix if you are always connected to the internet
+-  Use the OfflineFix if you are not connected to the internet.
+
 
 
 
