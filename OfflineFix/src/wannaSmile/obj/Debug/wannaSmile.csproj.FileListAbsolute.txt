@@ -1,0 +1,9 @@
+c:\users\family\documents\visual studio 2015\Projects\wannaSmile\wannaSmile\bin\Debug\wannaSmile.exe.config
+c:\users\family\documents\visual studio 2015\Projects\wannaSmile\wannaSmile\bin\Debug\wannaSmile.exe
+c:\users\family\documents\visual studio 2015\Projects\wannaSmile\wannaSmile\bin\Debug\wannaSmile.pdb
+c:\users\family\documents\visual studio 2015\Projects\wannaSmile\wannaSmile\obj\Debug\wannaSmile.ProjectInstaller.resources
+c:\users\family\documents\visual studio 2015\Projects\wannaSmile\wannaSmile\obj\Debug\wannaSmile.csproj.GenerateResource.Cache
+c:\users\family\documents\visual studio 2015\Projects\wannaSmile\wannaSmile\obj\Debug\wannaSmile.exe
+c:\users\family\documents\visual studio 2015\Projects\wannaSmile\wannaSmile\obj\Debug\wannaSmile.pdb
+C:\Users\family\Documents\Visual Studio 2015\Projects\wannaSmile\wannaSmile\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\family\Documents\Visual Studio 2015\Projects\wannaSmile\wannaSmile\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
