@@ -1,5 +1,5 @@
 # Offline fix for WannaCry 
-runs a local server and blocks the wannaCry IPs by appending `hosts` file
+Runs a local server and localhost to the wannaCry kill-switch by appending hosts file. This is done so that when the ransomware tried to connect to the website it does not fail which will eventually stop the ransomware.
 
 ## Instructions
 - Install the `wannaSmile` service by running the `setup.exe` from [this release](https://github.com/indrajeetb/WannaSmile/releases/tag/0.1). (Download the `wannasmile.zip` file)
