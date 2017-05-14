@@ -12,3 +12,5 @@ runs a local server and blocks the wannaCry IPs by appending `hosts` file
 	- `right click` on WannaSmile and click `start`
 - The service will be running and the wanna cry IPs will be blocked along with the SMBs
 
+## Issues
+- Other than security concerns there is one [issue](https://github.com/indrajeetb/WannaSmile/issues/1) with the host file appending [HELP WANTED]
