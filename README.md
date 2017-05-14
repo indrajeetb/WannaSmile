@@ -4,7 +4,7 @@ WannaCry Ransomware is spreading like wild fire. It uses vulnerability in Micros
 
 On 13th may 2017 , security researcher going with the handle @malwaretech and Darien Huss found a 'kill-switch' which paused the ransomware. Basically the ransomware opens a unregistered domain and if fail to open then the system is infected. So @malwaretech registered the domain which stopped the ransomware.
 
-Soon Cyber criminals around the world DDOSed it to take it down so that the ransomeware can continue affecting. 
+Soon Cyber criminals around the world DDOSed it to take it down so that the ransomware can continue affecting. 
 
 **Also the 'kill-switch' won't work if :**
 -  System is not connected to internet
