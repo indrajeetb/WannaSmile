@@ -7,9 +7,9 @@ On 13th may 2017 , security researcher going with the handle @malwaretech and Da
 Soon Cyber criminals around the world DDOSed it to take it down so that the ransomeware can continue affecting. 
 
 **Also the 'kill-switch' won't work if :**
--  system is not connected to internet
--  if the 'kill-switch' domain is down
--  if it is blocked by the isp or firewall
+-  System is not connected to internet
+-  If the 'kill-switch' domain is down
+-  If it is blocked by the isp or firewall
 
 ## The solution
 
@@ -18,15 +18,11 @@ Soon Cyber criminals around the world DDOSed it to take it down so that the rans
 It can do the following :
 
 -  It will disable SMB in your system ( which is enabled by default )
--  It will edit your host file and add google's IP to the **'kill-switch'** ( which means even if the site goes down you wont be affected )
+-  ( OnlineFix ) It will edit your host file and add google's IP to the **'kill-switch'** ( which means even if the site goes down you wont be affected )
+-  ( OfflineFix ) It will create a lightweight local web server and add localhost to **'Kill-switch'**
 
-## How to run
 
-You directly run the .exe file and it will do the magic. ( Run as Administrator ). If you don't trust our .exe file then you yourself can compile and run it.
 
-**Also we are coming up with the version 2.0 of it which will create a local server and change the host files to local server so that even if your system is offline , the ransomeware won't be able to affect you.**
 
-## Offline fix for WannaCry
-runs a local server and blocks the wannaCry IPs by appending `hosts` file
 
-### Read instructions for the offline fix [here](https://github.com/indrajeetb/WannaSmile/tree/master/OfflineFix)
+
