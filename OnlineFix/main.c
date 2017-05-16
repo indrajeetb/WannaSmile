@@ -17,17 +17,23 @@ int main()
     system("powershell.exe Set-ItemProperty -Path \"HKLM:\\SYSTEM\\CurrentControlSet\\Services\\LanmanServer\\Parameters\" SMB1 -Type DWORD -Value 0 -Force");
     system("powershell.exe Set-ItemProperty -Path \"HKLM:\\SYSTEM\\CurrentControlSet\\Services\\LanmanServer\\Parameters\" SMB2 -Type DWORD -Value 0 -Force");
 
+    char link[200]="\n216.58.197.132 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
+    char link1[200]="\n216.58.197.132 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
+    char link2[200] ="\n216.58.197.132 www.ifferfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
+    char link2[200] ="\n216.58.197.132 ifferfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
+    char link2[200] ="\n216.58.197.132 www.iuqssfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
+    char link2[200] ="\n216.58.197.132 iuqssfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
+    char link2[200] ="\n216.58.197.132 www.ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com";
+    char link2[200] ="\n216.58.197.132 ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com";
 
-char link[1000]="\n216.58.197.132 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
-char link1[1000]="\n216.58.197.132 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com";;
-   FILE *fptr;
+    FILE *fptr;
 
-   fptr = fopen("C:\\Windows\\System32\\drivers\\etc\\hosts", "a");
+    fptr = fopen("C:\\Windows\\System32\\drivers\\etc\\hosts", "a");
 
-   fprintf(fptr,"%s", link);
-   fprintf(fptr,"%s", link1);
-   fclose(fptr);
-   exit(0);
+    fprintf(fptr,"%s", link);
+    fprintf(fptr,"%s", link1);
+    fclose(fptr);
+    exit(0);
     }
-   return 0;
+    return 0;
 }
