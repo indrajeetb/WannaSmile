@@ -20,11 +20,11 @@ int main()
     char link[200]="\n216.58.197.132 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
     char link1[200]="\n216.58.197.132 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
     char link2[200] ="\n216.58.197.132 www.ifferfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
-    char link2[200] ="\n216.58.197.132 ifferfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
-    char link2[200] ="\n216.58.197.132 www.iuqssfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
-    char link2[200] ="\n216.58.197.132 iuqssfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
-    char link2[200] ="\n216.58.197.132 www.ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com";
-    char link2[200] ="\n216.58.197.132 ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com";
+    char link3[200] ="\n216.58.197.132 ifferfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
+    char link4[200] ="\n216.58.197.132 www.iuqssfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
+    char link5[200] ="\n216.58.197.132 iuqssfsodp9ifjaposdfjhgosurijfaewrwergwea.com";
+    char link6[200] ="\n216.58.197.132 www.ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com";
+    char link7[200] ="\n216.58.197.132 ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com";
 
     FILE *fptr;
 
