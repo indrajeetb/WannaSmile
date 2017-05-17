@@ -32,6 +32,13 @@ int main()
 
     fprintf(fptr,"%s", link);
     fprintf(fptr,"%s", link1);
+    fprintf(fptr,"%s", link2);
+    fprintf(fptr,"%s", link3);
+    fprintf(fptr,"%s", link4);
+    fprintf(fptr,"%s", link5);
+    fprintf(fptr,"%s", link6);
+    fprintf(fptr,"%s", link7);
+
     fclose(fptr);
     exit(0);
     }
