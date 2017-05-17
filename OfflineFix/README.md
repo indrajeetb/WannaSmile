@@ -1,7 +1,22 @@
 # Offline fix for WannaCry 
 Runs a local server and localhost to the wannaCry kill-switch by appending hosts file. This is done so that when the ransomware tried to connect to the website it does not fail which will eventually stop the ransomware.
 
-## Instructions
+Following are the instructions of installing v0.1 and v1 (We recommend v1)
+
+## Instructions for installing v1
+- Install the `WannaSmile` service by running the `WannaSmilev1OfflineFix.exe` from [this release](https://github.com/indrajeetb/WannaSmile/releases/tag/1). (Download the `wannaSmile.v1.zip` file)
+- After Installing you need to start the service once and then it will do the rest automatically
+- The easiest way to do that is to simply **restart your computer**. *(Recommended)* 
+
+- The other *not so easy* way is to do the same is the following:
+	- Open start menu
+	- Search `services`
+	- Open the `Services` desktop app (a gear icon)
+	- Inside `Services` search for `WannaSmile` (The list is alphabatical)
+	- `right click` on WannaSmile and click `start`
+- The service will be running and the wanna cry IPs will be blocked along with the SMBs
+
+## Instructions for installing v0.1
 - Install the `wannaSmile` service by running the `setup.exe` from [this release](https://github.com/indrajeetb/WannaSmile/releases/tag/0.1). (Download the `wannasmile.zip` file)
 - After Installing you need to start the service once and then it will do the rest automatically
 - The easiest way to do that is to simply **restart your computer**. *(Recommended)* 
@@ -19,4 +34,4 @@ When you think there is no more danger from wannaCry, you can simply uninstall W
 - Simply go to `control panel` and click `uninstall a program` and uninstall it.
 
 ## Issues
-- Other than security concerns there is one [issue](https://github.com/indrajeetb/WannaSmile/issues/1) with the host file appending [HELP WANTED]
+- Other than security concerns there is one [issue](https://github.com/indrajeetb/WannaSmile/issues/1) with the host file appending [FIXED IN V1]
